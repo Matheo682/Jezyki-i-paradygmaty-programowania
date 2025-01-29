@@ -23,7 +23,11 @@ def zadanie1(text):
         "most_common_words": most_common_words
     }
     return wyniki
-print(f'Ilość akapitów: {count_paragraph}')
-print(f'Ilość zdań: {count_sentences}')
-print(f'Ilośc słów: {count_words}')
-print(f'Najczęściej występujące słowa: {most_common_words}')
+
+text = """Przykład tekstu."""
+wyniki = zadanie1(text)
+
+print(f'Ilość akapitów: {wyniki["count_paragraph"]}')
+print(f'Ilość zdań: {wyniki["count_sentences"]}')
+print(f'Ilość słów: {wyniki["count_words"]}')
+print(f'Najczęściej występujące słowa: {wyniki["most_common_words"]}')
