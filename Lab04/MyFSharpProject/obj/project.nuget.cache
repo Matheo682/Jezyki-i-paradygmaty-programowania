@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJe1UuPz5ew=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Pulpit\\JIPP Lab\\Lab04\\MyFSharpProject\\MyFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
